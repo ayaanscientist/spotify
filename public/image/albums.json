@@ -1,0 +1,11 @@
+[
+    { "id": 11,  "thumbnail": "/image/tumhiho.jpg", "title":"Aashiqui 2", "artist": "Mithoon, Ankit Tiwari,Jeet Gangguli" },
+    { "id": 12,  "thumbnail": "https://i.scdn.co/image/ab67616d00001e02707ea5b8023ac77d31756ed4", "title":"Yeh Jawani Hai Deewani", "artist": "Pritam" },
+    { "id": 13,  "thumbnail": "https://i.scdn.co/image/ab67616d00001e02711c1639b4bc0f9978ae77a6", "title":"Sanam Teri Kasam", "artist": "Himesh Reshammiya, Sameer Anjaan" },
+    { "id": 14,  "thumbnail": "/image/findingher.jpg", "title":"Finding Her", "artist": "Kushagra, Bharath, Saaheal" },
+    { "id": 15,  "thumbnail": "/image/younggoat.jpg", "title":"Young G.O.A.T", "artist": "Cheema Y, Gur Sidhu" },
+    { "id": 16,  "thumbnail": "/image/raanjhan.jpg", "title":"Raanjhan", "artist": "Sachet-Parampara, Parampara Tandon" },
+    { "id": 17,  "thumbnail": "https://i.scdn.co/image/ab67616d00001e021aa5adad8593923dcdf1a7d0", "title":"Ultimate Love Songs", "artist": "Arijit Singh" },
+    { "id": 18,  "thumbnail": "/image/tryme.jpg", "title":"Making Memories", "artist": "Karan Aujla, Ikky" },
+    { "id": 19,  "thumbnail": "https://i.scdn.co/image/ab67616d00001e028e1bd9f2ca754ace0396d72f", "title":"Sicario", "artist": "Shubh" }
+]

@@ -1,0 +1,19 @@
+
+  [
+  { "id": 2,  "thumbnail": "/image/younggoat.jpg", "title": "Young Goat", "artist": "Cheema Y" },
+  { "id": 3,  "thumbnail": "/image/yourstruly.jpg", "title": "Yours Truly", "artist": "KR$NA" },
+  { "id": 4,  "thumbnail": "/image/ranjha.jpg", "title": "Ranjha", "artist": "B Praak" },
+  { "id": 5,  "thumbnail": "/image/sanamterikasam.jpg", "title": "Sanam Teri Kasam", "artist": "Ankit Tiwari" },
+  { "id": 6,  "thumbnail": "/image/tryme.jpg", "title": "Try Me", "artist": "Karan Aujla" },
+  { "id": 7,  "thumbnail": "/image/raanjhan.jpg", "title": "Raanjhan", "artist": "Arijit Singh" },
+  { "id": 8,  "thumbnail": "/image/shaky.jpg", "title": "Shaky", "artist": "Sanju Rathod" },
+  { "id": 9,  "thumbnail": "/image/moosetape.jpg", "title": "Moosetape", "artist": "Sidhu Moose Wala" },
+  { "id": 10, "thumbnail": "/image/jhol.jpg", "title": "Jhol", "artist": "Maanu" },
+
+  { "id": 11, "thumbnail": "/image/laalpari.jpg", "title": "Laal Pari", "artist": "Yo Yo Honey Singh" },
+  { "id": 12, "thumbnail": "/image/jaatintro.jpg", "title": "Jaat Intro", "artist": "Ajay Bhagta" },
+  { "id": 13, "thumbnail": "/image/ishqmera.jpg", "title": "Ishq Mera", "artist": "Pratibha Singh Baghel" },
+  { "id": 14, "thumbnail": "/image/okaystfu.jpg", "title": "Okay STFU", "artist": "AP Dhillon" },
+  { "id": 15, "thumbnail": "/image/samjhawan.jpg", "title": "Samjhawan", "artist": "Arijit Singh" }
+
+]
